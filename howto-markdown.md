@@ -1,3 +1,5 @@
+#可以參考官網 https://markdown.tw/#code 或是參考下方說明
+
 # Markdown 教學
 
 > Author: Chris  
